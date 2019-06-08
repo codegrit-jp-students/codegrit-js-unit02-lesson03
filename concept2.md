@@ -112,7 +112,8 @@ console.log(users);
 ```javascript
 let userObj = JSON.parse(jsonData);
 console.log(userObj);
-/* 
+
+/*
 {
   users: [
     {

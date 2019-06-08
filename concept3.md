@@ -227,9 +227,9 @@ CORSについてのより詳しい解説は、Javascriptコースの主題と離
 
 ### 記事で学ぶ
 
-* [HTTPの概要 - Mozilla](https://developer.mozilla.org/ja/docs/Web/HTTP/Overview)
-* [MIMEタイプ - Mozilla](https://developer.mozilla.org/ja/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
-* [Fetch 概説 - Mozilla](https://developer.mozilla.org/ja/docs/Web/API/Fetch_API/Using_Fetch)
-* [JSON公式(日本語)](https://www.json.org/json-ja.html)
-* [JSON - Mozilla](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON)
-* [オリジン間リソース共有 (CORS) - Mozilla](https://developer.mozilla.org/ja/docs/Web/HTTP/HTTP_access_control)
+- [HTTPの概要 - Mozilla](https://developer.mozilla.org/ja/docs/Web/HTTP/Overview)
+- [MIMEタイプ - Mozilla](https://developer.mozilla.org/ja/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+- [Fetch 概説 - Mozilla](https://developer.mozilla.org/ja/docs/Web/API/Fetch_API/Using_Fetch)
+- [JSON公式(日本語)](https://www.json.org/json-ja.html)
+- [JSON - Mozilla](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+- [オリジン間リソース共有 (CORS) - Mozilla](https://developer.mozilla.org/ja/docs/Web/HTTP/HTTP_access_control)
